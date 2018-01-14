@@ -1,0 +1,1 @@
+The distance between two stations is 240 km. A train takes 4 hours to cover that distance. Calculate the speed of the train.

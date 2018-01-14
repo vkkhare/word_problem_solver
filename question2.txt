@@ -1,0 +1,17 @@
+A bus travels 54 km in 90 minutes. What is the speed of the bus?
+
+Nancy travelled a distance of 455 km by car in 10 hours. Find the speed of the car.
+
+A person runs a distance of 60 km in 5 hours. What is his speed ? (ambiguity handling)
+
+The distance between two stations is 240 km. A train takes 4 hours to cover that distance. Calculate the speed of the train. (referencing)
+
+Ramesh travels at a speed of 30 kmph for a time of 2 hours to travel a certain distance. How much time will he take to cover the same distance with the speed of 20 kmph? (multiple linking)
+
+How much time Raman will take to cover a distance of 400 km if he runs at a speed of 20 kmph ? (Pronoun and new sentence structure)
+
+
+
+
+
+

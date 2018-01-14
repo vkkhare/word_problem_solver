@@ -1,0 +1,2 @@
+Speed of a train is 20 Kmph. The train can cross the pole in 10
+hours. What is the distance travelled by the train?  

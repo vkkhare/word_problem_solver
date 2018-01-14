@@ -1,0 +1,7 @@
+Speed of a train is 20 meters per second. It can cross a pole in 10 seconds. What is the length of train ?
+
+Ram walks at a speed of  12 km/h. Today the day was very hot so walked at ⅚ of his average speed. He arrived his school 10 minutes LATE. Find the usual time he takes to cover distance between his school and home ?
+
+Salma takes 15 minutes from her house to reach her school on a bicycle. If the bicycle has a speed of 2 m/s, calculate the distance between her house and the school.
+
+A car moves with a speed of 40 km/h for 15 hours and then with a speed of 60 km/h for the next 15 hours. What is the total distance covered by the car?
